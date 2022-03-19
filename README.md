@@ -1,5 +1,6 @@
 ## trknbash For Termux ( No Root Need )
-### How To Use :
+### codes by trhacknon (github) / brig1d3sint3rn1ti0n1ll3s (IG) 
+#### How To Use :
 * git clone https://github.com/trhacknon/fcbk-brutetor
 * cd fcbk-brutetor
 * sh install.sh
